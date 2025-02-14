@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DESKTOP\EGC-LABS\CMAKEFILES\89B4A02CED9A023BDE3E83A3C235DBF4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Asus/Desktop/egc-labs -BC:/Users/Asus/Desktop/egc-labs --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Asus/Desktop/egc-labs/GFXFramework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,102 @@
+﻿  Building Custom Rule C:/Users/Asus/Desktop/egc-labs/CMakeLists.txt
+  camera_input.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  scene_input.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  simple_scene.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  text_renderer.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  engine.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  frame_buffer.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  gpu_buffers.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  mesh.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+C:\Users\Asus\Desktop\egc-labs\src\core\gpu\mesh.cpp(271,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Desktop\egc-labs\src\core\gpu\mesh.cpp(297,27): warning C4018: '<': signed/unsigned mismatch
+  shader.cpp
+C:\Users\Asus\Desktop\egc-labs\src\core\gpu\shader.cpp(101,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  texture2D.cpp
+  texture_manager.cpp
+  input_controller.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  window_callbacks.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  window_object.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+C:\Users\Asus\Desktop\egc-labs\src\core\window\window_object.cpp(409,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  world.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  lab1.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  lab2.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab2\lab2.cpp(129,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lab3.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  lab3_vis2D.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab3\lab3_vis2D.cpp(86,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab3\lab3_vis2D.cpp(86,18): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab3\lab3_vis2D.cpp(85,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab3\lab3_vis2D.cpp(85,38): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  object2D.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  Generating Code...
+  Compiling...
+  lab4.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab4\lab4.cpp(57,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab4\lab4.cpp(57,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab4\lab4.cpp(172,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab4\lab4.cpp(172,92): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab4\lab4.cpp(173,54): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab4\lab4.cpp(173,92): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  lab5.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  lab6.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab6\lab6.cpp(118,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lab7.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  lab8.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  lab9.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+C:\Users\Asus\Desktop\egc-labs\src\labs\lab9\lab9.cpp(323,74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  main.cpp
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(48): warning C4201: nonstandard extension used: nameless struct/union
+C:\Users\Asus\Desktop\egc-labs\deps\api\glm\ext\../detail/type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  gl_utils.cpp
+  text_utils.cpp
+  Generating Code...
+     Creating library C:/Users/Asus/Desktop/egc-labs/Debug/GFXFramework.lib and object C:/Users/Asus/Desktop/egc-labs/Debug/GFXFramework.exp
+  GFXFramework.vcxproj -> C:\Users\Asus\Desktop\egc-labs\bin\Debug\GFXFramework.exe
+  Junction created for C:\Users\Asus\Desktop\egc-labs\bin\Debug\src <<===>> C:\Users\Asus\Desktop\egc-labs\src
+  Junction created for C:\Users\Asus\Desktop\egc-labs\bin\Debug\assets <<===>> C:\Users\Asus\Desktop\egc-labs\assets
